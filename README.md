@@ -1,14 +1,26 @@
-<!-- Banner GIF (replace with your favorite dark purple aesthetic GIF) -->
-![Banner](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+<div align="center">
 
-# Hi there 👋, I'm Luka Jacobsen (LukaRic)
+# Hey, I'm Luka Jacobsen
 
-I’m a cyber security enthusiast and student currently in gymnasium, exploring programming and security.  
+</div>
+
+I'm a student whos in the very early stages of getting his cyber security candidate.
 I mainly work with Python but have experience in several other languages and tools.
+
+I own a small community server with people who enjoy working with computer software & hardware and helping others.
+Feel free to join and checkout the community below!
+
+<div align="center">
+
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://discord.gg/GEHH684gR6)
+
+</div>
 
 ---
 
-## 🛠️ Skills & Technologies
+## Skills & Technologies
+
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
@@ -18,43 +30,33 @@ I mainly work with Python but have experience in several other languages and too
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Database](https://img.shields.io/badge/Database-005C97?style=for-the-badge&logo=database&logoColor=white)
+![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white&style=for-the-badge)
+
+</div>
 
 ---
 
-## 💻 Projects & Experience
+## Projects & Experience
 
-Some examples of what I’ve worked on:  
+Some examples of what I’ve worked on:
 
-- Automation scripts & macros (AHK, Python)  
-- Web scraping and data handling scripts  
-- Discord bots with Node.js  
-- Roblox Studio game development  
-- Arduino hardware prototypes  
+- Automation scripts & macros
+- Web scraping and data handling scripts
+- Discord bots with Node.js
+- Roblox Studio game development
+- Arduino hardware prototypes
 - Database structures for personal projects
 
 ---
 
-## 📈 GitHub Stats
+<div align="center">
 
-![LukaRic's GitHub stats](https://github-readme-stats.vercel.app/api?username=LukaRic&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LukaRic&layout=compact&theme=radical)
+## I'll always stay true to
 
----
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white&style=for-the-badge)](#)
 
-## 👀 Visitors
-
-![Visitor Count](https://profile-counter.glitch.me/LukaRic/count.svg)
+</div>
 
 ---
 
-## 🎮 Fun & Interests
-
-- Exploring cyber security and ethical hacking  
-- Programming games and bots  
-- Tech gadgets and hardware experiments  
-- Always learning new coding skills
-
----
-
-*Thanks for visiting my profile!* 🚀
+![VSCode Banner](https://img.shields.io/badge/I'll%20always%20stay%20true%20to%20Visual%20Studio%20Code-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
