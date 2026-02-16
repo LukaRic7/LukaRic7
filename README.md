@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/LukaRic7/LukaRic7/main/assets/Introduction.png" width="100%" />
+
 <div align="center">
 
 # Hey, I'm Luka Jacobsen
@@ -18,7 +20,7 @@ Feel free to join and checkout the community below!
 
 ---
 
-## Skills & Technologies
+<img src="https://raw.githubusercontent.com/LukaRic7/LukaRic7/main/assets/Skills_Technologies.png" width="100%" />
 
 <div align="center">
 
@@ -36,7 +38,7 @@ Feel free to join and checkout the community below!
 
 ---
 
-## Projects & Experience
+<img src="https://raw.githubusercontent.com/LukaRic7/LukaRic7/main/assets/Projects_Experience.png" width="100%" />
 
 Some examples of what I’ve worked on:
 
@@ -56,7 +58,3 @@ Some examples of what I’ve worked on:
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white&style=for-the-badge)](#)
 
 </div>
-
----
-
-![VSCode Banner](https://img.shields.io/badge/I'll%20always%20stay%20true%20to%20Visual%20Studio%20Code-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
