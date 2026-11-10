@@ -6,8 +6,7 @@
 
 </div>
 
-I'm a student whos in the very early stages of getting his cyber security candidate.
-I mainly work with Python but have experience in several other languages and tools.
+I'm a cybersecurity student in Denmark. I mainly work with Python but have experience in several other languages and tools.
 
 I own a small community server with people who enjoy working with computer software & hardware and helping others.
 Feel free to join and checkout the community below!
